@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jyothis1dev
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning HTML,CSS, Javascript,
+- 👋 Hi, I’m @JyothisKT
+- 👀 I’m interested in IT WORLD
+- 🌱 I’m currently learning HTML,CSS, Javascript, Phython
 - 💞️ I’m looking to collaborate on new web designing projects as freelancer
 - 📫 How to reach me jyothiskt14@gmail.com
 
